@@ -51,7 +51,7 @@ function Products() {
                         </div>
                     </div>
 
-                    <div className="col-lg-4 col-md-6 product-item filter-app" style={{ position: 'absolute', left: '0px', top: '555px' }}>
+                    {/* <div className="col-lg-4 col-md-6 product-item filter-app" style={{ position: 'absolute', left: '0px', top: '555px' }}>
                         <div className="product-wrap">
                             <img src="assets/img/product/product-3.jpg" className="img-fluid" alt="" />
                             <div className="product-links">
@@ -63,9 +63,9 @@ function Products() {
                                 <p>App</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
-                    <div className="col-lg-4 col-md-6 product-item filter-card" style={{ position: 'absolute', left: '0px', top: '832.5px' }}>
+                    {/* <div className="col-lg-4 col-md-6 product-item filter-card" style={{ position: 'absolute', left: '0px', top: '832.5px' }}>
                         <div className="product-wrap">
                             <img src="assets/img/product/product-4.jpg" className="img-fluid" alt="" />
                             <div className="product-links">
@@ -77,9 +77,9 @@ function Products() {
                                 <p>Card</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
-                    <div className="col-lg-4 col-md-6 product-item filter-web" style={{ position: 'absolute', left: '0px', top: '1110px' }}>
+                    {/* <div className="col-lg-4 col-md-6 product-item filter-web" style={{ position: 'absolute', left: '0px', top: '1110px' }}>
                         <div className="product-wrap">
                             <img src="assets/img/product/product-5.jpg" className="img-fluid" alt="" />
                             <div className="product-links">
@@ -91,9 +91,9 @@ function Products() {
                                 <p>Web</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
-                    <div className="col-lg-4 col-md-6 product-item filter-app" style={{ position: 'absolute', left: '0px', top: '1387.5px' }}>
+                    {/* <div className="col-lg-4 col-md-6 product-item filter-app" style={{ position: 'absolute', left: '0px', top: '1387.5px' }}>
                         <div className="product-wrap">
                             <img src="assets/img/product/product-6.jpg" className="img-fluid" alt="" />
                             <div className="product-links">
@@ -105,9 +105,9 @@ function Products() {
                                 <p>App</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
-                    <div className="col-lg-4 col-md-6 product-item filter-card" style={{ position: 'absolute', left: '0px', top: '1665px' }}>
+                    {/* <div className="col-lg-4 col-md-6 product-item filter-card" style={{ position: 'absolute', left: '0px', top: '1665px' }}>
                         <div className="product-wrap">
                             <img src="assets/img/product/product-7.jpg" className="img-fluid" alt="" />
                             <div className="product-links">
@@ -119,9 +119,9 @@ function Products() {
                                 <p>Card</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
-                    <div className="col-lg-4 col-md-6 product-item filter-card" style={{ position: 'absolute', left: '0px', top: '1942.5px' }}>
+                    {/* <div className="col-lg-4 col-md-6 product-item filter-card" style={{ position: 'absolute', left: '0px', top: '1942.5px' }}>
                         <div className="product-wrap">
                             <img src="assets/img/product/product-8.jpg" className="img-fluid" alt="" />
                             <div className="product-links">
@@ -133,9 +133,9 @@ function Products() {
                                 <p>Card</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
-                    <div className="col-lg-4 col-md-6 product-item filter-web" style={{ position: 'absolute', left: '0px', top: '2220px' }}>
+                    {/* <div className="col-lg-4 col-md-6 product-item filter-web" style={{ position: 'absolute', left: '0px', top: '2220px' }}>
                         <div className="product-wrap">
                             <img src="assets/img/product/product-9.jpg" className="img-fluid" alt="" />
                             <div className="product-links">
@@ -147,7 +147,7 @@ function Products() {
                                 <p>Web</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
                 </div>
 

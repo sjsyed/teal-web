@@ -16,7 +16,7 @@ function App() {
       <Hero />
 
       <main id="main">
-        <Clients />
+        {/* <Clients /> */}
 
         <Features />
 
@@ -27,8 +27,9 @@ function App() {
       </main>
 
       <Footer />
+      <a href="#" className="back-to-top"><i className="icofont-simple-up"></i></a>
 
-      <a href="#" className="back-to-top" style={{ display: 'none' }}><i className="icofont-simple-up"></i></a>
+      {/* <a href="#" className="back-to-top" style={{ display: 'none' }}><i className="icofont-simple-up"></i></a>
 
       <nav className="mobile-nav d-lg-none">
         <ul>
@@ -58,7 +59,7 @@ function App() {
 
           <li className="get-started"><a href="#about">Get Started</a></li>
         </ul>
-      </nav>
+      </nav> */}
       {/* <div className="mobile-nav-overly" style={{ display: 'none' }}>
 
       </div> */}

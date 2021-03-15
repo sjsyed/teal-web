@@ -12,7 +12,10 @@
   font-family: "Open Sans", sans-serif;
   color: #444444;
 } */
-
+.text-danger
+{
+  color: red;
+}
 a {
   color: #fdc134;
 }
@@ -24,6 +27,31 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
+}
+
+.text-grey
+{
+  color: #36454F;
+}
+
+.sj-red
+{
+  color: red !important;
+}
+
+/* nav .navbar-nav li a{
+  color: #36454F !important;
+} */
+
+/* .navbar-light .navbar-nav .nav-link a:hover {
+  color: blue;
+} */
+
+.navbar-light .navbar-nav .nav-link {
+  color: #36454F !important;
+}
+.navbar-light .nav-item:hover .nav-link{
+  color: black !important;
 }
 
 /*--------------------------------------------------------------
@@ -1278,6 +1306,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   background: url("../img/footer-bg.jpg") center center no-repeat;
   color: #fff;
   font-size: 14px;
@@ -1302,7 +1331,7 @@ section {
   padding: 80px 0;
 }
 
-#footer .footer-top h3 {
+#footer .footer-top h4 {
   font-size: 36px;
   font-weight: 700;
   color: #fff;

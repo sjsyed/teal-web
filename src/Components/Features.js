@@ -64,7 +64,7 @@ function Features() {
                     </div>
                 </div>
 
-                <div className="row content">
+                {/* <div className="row content">
                     <div className="col-md-5 order-1 order-md-2 aos-init" data-aos="fade-left">
                         <img src="assets/img/features-4.svg" className="img-fluid" alt="" />
                     </div>
@@ -82,7 +82,7 @@ function Features() {
                             culpa qui officia deserunt mollit anim id est laborum
           </p>
                     </div>
-                </div>
+                </div> */}
 
             </div>
         </section>
