@@ -9,4 +9,4 @@
 ![image](https://user-images.githubusercontent.com/52930708/109539925-de448a80-7ae7-11eb-9e40-c92b9b2cf8cb.png)
 
 # Footer section
-![Screenshot (59)](https://user-images.githubusercontent.com/52930708/109539073-dafccf00-7ae6-11eb-818e-56947552fe1b.png)
+![image](https://user-images.githubusercontent.com/52930708/111192807-7c078180-85df-11eb-95fc-483567b7fb5b.png)
